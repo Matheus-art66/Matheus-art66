@@ -1,15 +1,3 @@
-html>
-<head>
-  <style>
-    body {
-      background-color: black;
-      color: white; /* para que o texto seja visível */
-      font-family: Arial, sans-serif;
-    }
-  </style>
-</head>
-<body>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Mendes+Alves;I+study+Information+system;Be+Welcome!+:%29)](https://git.io/typing-svg) 
